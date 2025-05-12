@@ -67,7 +67,8 @@ class HypermediaFile(MediaFile):
         self.user_inputs = user_inputs
 
     def start_interaction(self):
-        print(f"Starting interaction at {self.interactivity_level} level.")
+        game_name = self.filename.replace(".html", "")
+        print(f"Starting {game_name} at {self.interactivity_level} level.")
 
     def show_feedback(self):
         return "Feedback shown based on user input."
@@ -76,10 +77,10 @@ class HypermediaFile(MediaFile):
         self.start_interaction()
 
 if __name__ == "__main__":
-    audio = AudioFile("song.mp3", 5000, "Doja Cat", 210)
-    video = VideoFile("vlog.mp4", 200000, "4K", 900)
-    image = ImageFile("meme.jpg", 1024, "1080", "720")
-    hypermedia = HypermediaFile("game.html", 15000, "High", ["click", "hover"])
+    audio = AudioFile("Multo.mp3", 5000, "Cup of Joe", 210)
+    video = VideoFile("A Day in a Life of a CS Student.mp4", 200000, "4K", 900)
+    image = ImageFile("Computer Science Meme.jpg", 1024, 1080, 720)
+    hypermedia = HypermediaFile("Subway Surfers.html", 4500, "Fast", ["swipe left", "swipe right", "jump"])
 
     audio.operate()
     audio.set_volume(80)
