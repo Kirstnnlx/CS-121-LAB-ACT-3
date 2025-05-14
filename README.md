@@ -32,6 +32,9 @@ Each class implements its own flavor of the `operate()` method — proving that 
 
 > Whether you're learning OOP or building a Python class hierarchy project, this simulator offers a clean, creative, and extensible design.
 
+## Class Diagram
+![Class Diagram](https://github.com/Kirstnnlx/CS121-LabAct-3-4/blob/main/ClassDiagram.png)
+
 
 ## 👩🏻‍💻 Meet the Team
 | Name | Github Account |
