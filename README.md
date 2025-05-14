@@ -67,6 +67,9 @@ No need to set up a GUI or install fancy tools — just launch the Python file a
        ✓ Decide if you'd like to ⭐ add the file to your Favorites list.
 
 
+## 🎀 Acknowledgement
+
+> We, Group 5, would love to express our gratefulness for our Lovely, Optimistic, Vouch, and Enticing adviser, Ms. Fatima Marie Agdon 👩‍🏫🌸, for her earnest encouragement, support, and the valuable lessons we've learned. Her steady guidance helped us navigate every challenge with more confidence ✨. She made the learning process engaging and meaningful 🎀. This work reflects not only our effort, but the impact of her dedication as a mentor. Her insight challenged us to think deeper and work smarter 💅🏻. We carry forward not just knowledge, but lasting appreciation for her support.
 
 ## 👩🏻‍💻 Meet the Team
 | Name | Github Account |
@@ -76,6 +79,4 @@ No need to set up a GUI or install fancy tools — just launch the Python file a
 | Mikyla Carranceja |
 | Christine Nicole Miranda |
 
-## 👩‍🏫🎀Acknowledgement🌸💅🏻
 
-We, Group 5, would love to express our gratefulness for our **<span style="color:pink">L</span>**ovely, **<span style="color:pink">O</span>**ptimistic, **<span style="color:pink">V</span>**ouch, and **<span style="color:pink">E</span>**nticing adviser, <span style="color:pink">Ms. Fatima Marie Agdon</span>👩‍🏫🌸, for her earnest encouragement, support, and the valuable lessons we've learned. Her steady guidance helped us navigate every challenge with more confidence✨. She made the learning process engaging and meaningful🎀. This work reflects not only our effort, but the impact of her dedication as a mentor. Her insight challenged us to think deeper and work smarter💅🏻.We carry forward not just knowledge, but lasting appreciation for her support
