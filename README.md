@@ -35,6 +35,41 @@ Each class implements its own flavor of the `operate()` method — proving that 
 ## 💻 Class Diagram
 ![Class Diagram](https://github.com/Kirstnnlx/CS121-LabAct-3-4/blob/main/ClassDiagram.png)
 
+## 🕹️ How to Run the Program
+Welcome to **MediaVerse** — a command-line playground for exploring digital media! 🧠💻  
+No need to set up a GUI or install fancy tools — just launch the Python file and dive in.
+
+### 🚦 Step-by-Step Simulation Flow
+
+1. **Start the Program**
+   
+   Run the script in your terminal or Python environment
+
+2. **Choose Your Media Adventure**
+   
+   You'll be greeted with this interactive menu:
+   🎉 Welcome to MediaVerse: Media File Simulator!
+
+    ``` (no tag)
+    Choose a media type:
+    1. Audio
+    2. Video
+    3. Image
+    4. Hypermedia (Games)
+    5. Exit
+
+3. **Interact with Your Choice**
+
+   Depending on what you choose, you’ll be prompted to:
+
+       ✓ Input details (filename, artist, resolution, etc.)
+
+       ✓ Perform actions (play, view, resize, or even play games!)
+
+       ✓ Decide if you'd like to ⭐ add the file to your Favorites list.
+
+
+
 ## 👩🏻‍💻 Meet the Team
 | Name | Github Account |
 |------|----------------|
