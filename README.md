@@ -38,7 +38,7 @@ Each class implements its own flavor of the `operate()` method — proving that 
 > Whether you're learning OOP or building a Python class hierarchy project, this simulator offers a clean, creative, and extensible design.
 
 
-## Meet the Team
+## 👩🏻‍💻 Meet the Team
 | Name | Github Account |
 |------|----------------|
 | Kirsten Roan Dumlao | [Kirstnnlx](https://github.com/Kirstnnlx) |
