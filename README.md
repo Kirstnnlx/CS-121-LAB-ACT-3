@@ -15,11 +15,6 @@
 </body>
 </html>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/Hello.gif" alt="Animated Media Header" width="100%" />
-</p>
-
-
 
 ## 🎬 A Polymorphic Playground of Digital Files
 
