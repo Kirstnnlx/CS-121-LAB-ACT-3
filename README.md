@@ -40,7 +40,7 @@ Each class implements its own flavor of the `operate()` method — proving that 
 | Name | Github Account |
 |------|----------------|
 | Kirsten Roan Dumlao | [Kirstnnlx](https://github.com/Kirstnnlx) |
-| Azelle Ann Aguilar | 
+| Azelle Ann Aguilar | [wxyzel](https://github.com/wxyzel) |
 | Mikyla Carranceja |
 | Christine Nicole Miranda |
 
