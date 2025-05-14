@@ -48,9 +48,9 @@ No need to set up a GUI or install fancy tools — just launch the Python file a
 2. **Choose Your Media Adventure**
    
    You'll be greeted with this interactive menu:
-   🎉 Welcome to MediaVerse: Media File Simulator!
 
     ``` (no tag)
+    🎉 Welcome to MediaVerse: Media File Simulator!
     Choose a media type:
     1. Audio
     2. Video
@@ -63,9 +63,7 @@ No need to set up a GUI or install fancy tools — just launch the Python file a
    Depending on what you choose, you’ll be prompted to:
 
        ✓ Input details (filename, artist, resolution, etc.)
-
        ✓ Perform actions (play, view, resize, or even play games!)
-
        ✓ Decide if you'd like to ⭐ add the file to your Favorites list.
 
 
