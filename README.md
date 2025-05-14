@@ -43,5 +43,6 @@ Each class implements its own flavor of the `operate()` method — proving that 
 | Mikyla Carranceja |
 | Christine Nicole Miranda |
 
+## 👩‍🏫🎀Acknowledgement🌸💅🏻
 
-
+We, **`Group 5`**, would love to express our gratefulness for our **`L`**ovely, **`O`**ptimistic, **`V`**ouch, and **`E`**nticing adviser, **Ms. Fatima Marie Agdon👩‍🏫🌸**, for her earnest encouragement, support, and the valuable lessons we've learned. Her steady guidance helped us navigate every challenge with more confidence✨. She made the learning process engaging and meaningful🎀. This work reflects not only our effort, but the impact of her dedication as a mentor. Her insight challenged us to think deeper and work smarter💅🏻. We carry forward not just knowledge, but lasting appreciation for her support.
