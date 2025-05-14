@@ -1,4 +1,4 @@
-<h1 align="center">🗃️🎧🎮 MediaVerse: Enter the OOP Simulation 🎬🕹️🖥️</h1>
+<h1 align="center">🗃️🎧🎮 MediaVerse: Enter the OOP Simulation 🎬🖥️</h1>
 
 
 <!DOCTYPE html>
