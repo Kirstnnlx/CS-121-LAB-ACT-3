@@ -76,7 +76,7 @@ No need to set up a GUI or install fancy tools — just launch the Python file a
 |------|----------------|
 | Kirsten Roan Dumlao | [Kirstnnlx](https://github.com/Kirstnnlx) |
 | Azelle Ann Aguilar | [wxyzel](https://github.com/wxyzel) |
-| Mikyla Carranceja |
-| Christine Nicole Miranda | [Tine1420](https://github.com/Tine1420)
+| Mikyla Carranceja | [kykylim](https://github.com/kykylim) |
+| Christine Nicole Miranda | [Tine1420](https://github.com/Tine1420) |
 
 
